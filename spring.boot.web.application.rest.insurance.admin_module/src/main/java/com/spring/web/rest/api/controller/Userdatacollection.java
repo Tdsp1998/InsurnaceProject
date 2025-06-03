@@ -16,8 +16,9 @@ public class Userdatacollection {
 	private String name;
 	private long phoneno;
 	private long snsno;
-	private LocalDate Dob;
-	private LocalDate Updateinformation;
-	private LocalDate Creationinformation;
+	private LocalDate update_file;
+	private LocalDate create_file;
+	
+	
                    
 }
